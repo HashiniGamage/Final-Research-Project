@@ -1,0 +1,22 @@
+{
+  "jobs": [
+    {
+      "title": "Data Scientist",
+      "industry": "IT",
+      "education": "Bachelor's/Master's in Data Science, Computer Science, or Statistics",
+      "skills": ["Python", "R", "Machine Learning", "SQL", "Data Visualization"]
+    },
+    {
+      "title": "AI Engineer",
+      "industry": "IT",
+      "education": "Master's/PhD in AI, Computer Science, or related field",
+      "skills": ["Deep Learning", "TensorFlow", "PyTorch", "Python", "NLP"]
+    },
+    {
+      "title": "Cloud Architect",
+      "industry": "IT",
+      "education": "Bachelor's in Computer Science or IT",
+      "skills": ["AWS", "Azure", "GCP", "Kubernetes", "Docker"]
+    }
+  ]
+}
