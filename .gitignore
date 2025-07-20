@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 __pycache__/
 *.py[cod]
 venv/
@@ -5,3 +6,6 @@ venv/
 .vscode/
 *.pkl
 .streamlit/
+=======
+"venv/" 
+>>>>>>> 0a2afa869457d7ea7fbd9d31a0879c30c2125e68
